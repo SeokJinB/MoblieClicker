@@ -14,7 +14,7 @@
 ## 🛠️ 사용 기술 스택  
 - **Unity**: 게임 개발 및 UI 구성  
 - **C#**: 게임 로직 구현  
-- **GitHub Actions**: 코드 버전 관리  
+- **GitHub Desktop**: 코드 버전 관리  
 <br></br>
 ## 💻 웹 버전 바로가기  
 [**PC에서 바로 플레이하기**](https://play.unity.com/mg/other/unitywebgl-45)  
