@@ -1,4 +1,4 @@
-# Hit Checkers  
+# ♟️Hit Checkers  
 **Unity 기반 Clicker 형식의 캐주얼 모바일 게임**  
 ![Hit Checkers Demo](https://github.com/user-attachments/assets/dd97efe4-a5a8-43e0-b50a-a62af5ef8e9f)
 <br></br>
