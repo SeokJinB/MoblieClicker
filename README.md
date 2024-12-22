@@ -17,7 +17,7 @@
 - **GitHub Desktop**: 코드 버전 관리  
 <br></br>
 ## 💻 웹 버전 바로가기  
-[**PC에서 바로 플레이하기**](https://play.unity.com/mg/other/unitywebgl-45)  
+[**PC에서 바로 플레이하기**](https://play.unity.com/en/games/d1acdbad-b77c-457d-a7e6-99f316645a21/hitcheckers2)  
 
 - PC 환경에서 별도 설치 없이 바로 게임을 플레이할 수 있습니다.
 <br></br>
